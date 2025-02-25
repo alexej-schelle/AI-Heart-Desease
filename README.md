@@ -6,5 +6,5 @@ The aim of the AI-Heart-Desease project is to perform a statistical analysis of 
 In particular, we like to address and understand the scaling of accuracy on the model dependence for random and standard neuronal network models. 
 First results on classification of psychological deseases indicate that random and neuronal network algorithms do not perform accurate predictions in parallel, but show high accuracy in either one of the model approaches.
 This indicates that model selection has to be evaluated from classifying the root causes of the desease types as random or generative.
-We like to confirm these findings in aa priliminary study of heart desease statistics, and try to find a general trend for model selection for illness probability predictions.
+We like to confirm these findings in a preliminary study of heart desease statistics, and try to find a general trend for random or generative model selection for illness probability prediction.
 
